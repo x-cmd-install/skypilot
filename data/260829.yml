@@ -1,0 +1,67 @@
+about:
+  description: The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster.
+  license: Apache-2.0
+  homepage: https://skypilot.ai/
+  head: 03a144c
+  archived: false
+  latestVersion: v0.13.1rc1
+  collectedAt: 2026-08-29T07:28:10Z
+timeline:
+  created: 2021-08-11
+  lastCommit: 2026-08-29
+  lastRelease: 2026-07-24
+popularity:
+  star: 10534
+  watcher: 76
+  fork: 1217
+  release: 42
+  contributor: 295
+  pullRequest: 1498
+  issue: 3269
+language:
+  Python: 19160586
+  JavaScript: 1655300
+  Jinja: 255420
+  Shell: 228999
+  HTML: 74733
+  Go: 21731
+  CSS: 12491
+  HCL: 11681
+  Go Template: 8706
+  Dockerfile: 7535
+  Makefile: 843
+  Mako: 704
+totalLine: 21438729
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 0
+    mergedPR: 117
+    openPR: 102
+    closedIssue: 6
+    openIssue: 38
+    commit: 131
+  last90d:
+    since: 2026-05-31
+    release: 5
+    mergedPR: 452
+    openPR: 201
+    closedIssue: 29
+    openIssue: 70
+    commit: 472
+  last180d:
+    since: 2026-03-02
+    release: 10
+    mergedPR: 935
+    openPR: 261
+    closedIssue: 79
+    openIssue: 92
+    commit: 950
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 2162
+    openPR: 266
+    closedIssue: 437
+    openIssue: 103
+    commit: 2140
