@@ -7,7 +7,7 @@ about:
   head: 34c8f09
   archived: false
   latestVersion: v0.13.1rc1
-  collectedAt: 2026-09-04T20:13:58Z
+  collectedAt: 2026-09-04T20:27:20Z
 timeline:
   created: 2021-08-11
   lastCommit: 2026-09-04
@@ -92,7 +92,7 @@ total:
   commit: 5742
 ---
 path: /home/runner/.x-repo/github.com/skypilot-org/skypilot
-collectedAt: 2026-09-04T20:14:11Z
+collectedAt: 2026-09-04T20:27:30Z
 loc:
   Python:
     code: 378610
