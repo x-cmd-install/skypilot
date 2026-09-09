@@ -2,12 +2,12 @@ about:
   description: "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster."
   license: Apache-2.0
   homepage: https://skypilot.ai/
-  head: 56f3a0d
+  head: 265751a
   archived: false
   latestVersion: "v0.13.1rc1"
   latestRelease: "v0.13.0"
   latestPrerelease: "v0.13.1rc1"
-  collectedAt: 2026-09-09T04:32:45Z
+  collectedAt: 2026-09-09T18:30:14Z
 timeline:
   created: 2021-08-11
   lastCommit: 2026-09-09
@@ -15,15 +15,15 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 2026-07-24
 popularity:
-  star: 10575
+  star: 10577
   watcher: 78
   fork: 1220
   release: 42
   contributor: 298
-  pullRequest: 7329
+  pullRequest: 7334
   issue: 3277
 language:
-  Python: 19714124
+  Python: 19723483
   JavaScript: 1708134
   Jinja: 256006
   Shell: 228999
@@ -35,72 +35,72 @@ language:
   Dockerfile: 7535
   Makefile: 843
   Mako: 704
-totalBytes: 22045687
+totalBytes: 22055046
 recent:
   last30d:
     since: 2026-08-10
     release: 0
-    mergedPR: 127
-    openPR: 97
+    mergedPR: 128
+    openPR: 101
     closedIssue: 6
     openIssue: 31
-    commit: 116
+    commit: 0
   last60d:
     since: 2026-07-11
     release: 2
-    mergedPR: 304
-    openPR: 159
+    mergedPR: 305
+    openPR: 163
     closedIssue: 16
     openIssue: 63
-    commit: 304
+    commit: 0
   last90d:
     since: 2026-06-11
     release: 3
-    mergedPR: 459
-    openPR: 214
+    mergedPR: 460
+    openPR: 218
     closedIssue: 25
     openIssue: 68
-    commit: 461
+    commit: 0
   last180d:
     since: 2026-03-13
     release: 9
-    mergedPR: 919
-    openPR: 267
+    mergedPR: 920
+    openPR: 270
     closedIssue: 81
     openIssue: 92
-    commit: 907
+    commit: 0
   last360d:
     since: 2025-09-14
     release: 17
-    mergedPR: 2121
-    openPR: 271
+    mergedPR: 2122
+    openPR: 274
     closedIssue: 395
     openIssue: 102
-    commit: 2071
+    commit: 0
   last720d:
     since: 2024-09-19
     release: 27
-    mergedPR: 3900
-    openPR: 272
+    mergedPR: 3901
+    openPR: 275
     closedIssue: 1454
     openIssue: 107
-    commit: 3799
+    commit: 3800
 total:
   release: 42
-  mergedPR: 5806
-  openPR: 273
+  mergedPR: 5807
+  openPR: 276
   closedIssue: 3148
   openIssue: 129
-  commit: 5757
+  commit: 5758
 ---
 path: /home/runner/.x-repo/github.com/skypilot-org/skypilot
-collectedAt: 2026-09-09T04:33:05Z
+collectedAt: 2026-09-09T18:30:39Z
 loc:
   Python:
-    code: 382087
-    comments: 43523
-    blanks: 60294
-    files: 1137
+    code: 382282
+    comments: 43525
+    blanks: 60324
+    files: 1139
   Json:
     code: 53008
     comments: 0
@@ -227,10 +227,10 @@ loc:
     blanks: 11
     files: 14
 total:
-  code: 543324
-  comments: 68610
-  blanks: 87956
-  files: 2321
+  code: 543519
+  comments: 68612
+  blanks: 87986
+  files: 2323
 ---
 
 ---
