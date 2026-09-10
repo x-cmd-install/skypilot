@@ -1,0 +1,57 @@
+- repo: nix_stable_24_11
+  srcname: skypilot
+  visiblename: skypilot
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Run LLMs and AI on any Cloud
+  maintainers:
+    - sean@gopaddy.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: skypilot
+  visiblename: skypilot
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: Run LLMs and AI on any Cloud
+  maintainers:
+    - sean@gopaddy.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: skypilot
+  visiblename: skypilot
+  version: 0.8.1
+  origversion: null
+  status: outdated
+  summary: Run LLMs and AI on any Cloud
+  maintainers:
+    - sean@gopaddy.ch
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: skypilot
+  visiblename: skypilot
+  version: 0.12.0
+  origversion: null
+  status: unique
+  summary: Run LLMs and AI on any Cloud
+  maintainers:
+    - sean@gopaddy.ch
+    - dpratyush.k@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: skypilot
+  visiblename: skypilot
+  version: 0.12.0
+  origversion: null
+  status: unique
+  summary: Run LLMs and AI on any Cloud
+  maintainers:
+    - sean@gopaddy.ch
+    - dpratyush.k@gmail.com
+  licenses:
+    - Apache-2.0
