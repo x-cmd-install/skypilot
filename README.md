@@ -41,18 +41,18 @@ Total: **540,379** lines of code across **1911** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 5818 · **Open PRs**: 281 · **Closed issues**: 3149 · **Open issues**: 130 · **Commits**: 5769
+- **Releases**: 42 · **Merged PRs**: 5818 · **Open PRs**: 282 · **Closed issues**: 3149 · **Open issues**: 130 · **Commits**: 5769
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 134 | 100 | 7 | 32 | 128 |
-| last60d | 2026-07-12 | 2 | 316 | 168 | 17 | 64 | 316 |
-| 90d | 2026-06-12 | 3 | 462 | 221 | 23 | 68 | 473 |
-| last180d | 2026-03-14 | 9 | 926 | 275 | 81 | 93 | 919 |
-| 360d | 2025-09-15 | 17 | 2123 | 279 | 392 | 103 | 2083 |
-| last720d | 2024-09-20 | 27 | 3911 | 280 | 1453 | 108 | 3808 |
+| 30d | 2026-08-11 | 0 | 134 | 101 | 7 | 32 | 128 |
+| last60d | 2026-07-12 | 2 | 316 | 169 | 17 | 64 | 316 |
+| 90d | 2026-06-12 | 3 | 462 | 222 | 23 | 68 | 473 |
+| last180d | 2026-03-14 | 9 | 926 | 276 | 81 | 93 | 919 |
+| 360d | 2025-09-15 | 17 | 2123 | 280 | 392 | 103 | 2083 |
+| last720d | 2024-09-20 | 27 | 3911 | 281 | 1453 | 108 | 3808 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for skypilot lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:09:26Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:41:07Z._
