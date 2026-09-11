@@ -33,26 +33,26 @@ Total: **540,379** lines of code across **1911** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1rc1` (2026-07-22)
-- **Last commit**: 2026-09-10
+- **Last commit**: 2026-09-11
 
 ## Popularity
 
-- **Stars**: 10,583 · **Forks**: 1,224 · **Open issues**: 3,279 · **Contributors**: 298
+- **Stars**: 10,585 · **Forks**: 1,224 · **Open issues**: 3,279 · **Contributors**: 298
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 5818 · **Open PRs**: 282 · **Closed issues**: 3149 · **Open issues**: 130 · **Commits**: 5769
+- **Releases**: 42 · **Merged PRs**: 5820 · **Open PRs**: 286 · **Closed issues**: 3149 · **Open issues**: 130 · **Commits**: 5771
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 134 | 101 | 7 | 32 | 128 |
-| last60d | 2026-07-12 | 2 | 316 | 169 | 17 | 64 | 316 |
-| 90d | 2026-06-12 | 3 | 462 | 222 | 23 | 68 | 473 |
-| last180d | 2026-03-14 | 9 | 926 | 276 | 81 | 93 | 919 |
-| 360d | 2025-09-15 | 17 | 2123 | 280 | 392 | 103 | 2083 |
-| last720d | 2024-09-20 | 27 | 3911 | 281 | 1453 | 108 | 3808 |
+| 30d | 2026-08-12 | 0 | 125 | 99 | 5 | 31 | 130 |
+| last60d | 2026-07-13 | 2 | 313 | 170 | 17 | 64 | 318 |
+| 90d | 2026-06-13 | 3 | 460 | 217 | 23 | 68 | 475 |
+| last180d | 2026-03-15 | 9 | 927 | 280 | 81 | 93 | 921 |
+| 360d | 2025-09-16 | 17 | 2117 | 284 | 388 | 103 | 2085 |
+| last720d | 2024-09-21 | 27 | 3913 | 285 | 1453 | 108 | 3810 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for skypilot lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T22:41:07Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T04:33:06Z._
