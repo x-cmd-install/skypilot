@@ -37,22 +37,22 @@ Total: **559,712** lines of code across **1960** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 10,660 · **Forks**: 1,250 · **Open issues**: 3,294 · **Contributors**: 300
+- **Stars**: 10,662 · **Forks**: 1,250 · **Open issues**: 3,295 · **Contributors**: 300
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 5907 · **Open PRs**: 308 · **Closed issues**: 3161 · **Open issues**: 133 · **Commits**: 5854
+- **Releases**: 44 · **Merged PRs**: 5907 · **Open PRs**: 316 · **Closed issues**: 3159 · **Open issues**: 136 · **Commits**: 5854
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-28 | 2 | 140 | 94 | 2 | 23 | 115 |
-| last60d | 2026-07-29 | 2 | 282 | 183 | 12 | 58 | 260 |
-| 90d | 2026-06-29 | 5 | 477 | 226 | 27 | 77 | 463 |
-| last180d | 2026-03-31 | 10 | 921 | 301 | 77 | 96 | 902 |
-| 360d | 2025-10-02 | 18 | 2049 | 306 | 355 | 106 | 1966 |
-| last720d | 2024-10-07 | 29 | 3961 | 307 | 1435 | 111 | 3864 |
+| 30d | 2026-08-29 | 2 | 139 | 101 | 2 | 24 | 115 |
+| last60d | 2026-07-30 | 2 | 271 | 184 | 12 | 58 | 260 |
+| 90d | 2026-06-30 | 5 | 464 | 230 | 27 | 78 | 463 |
+| last180d | 2026-04-01 | 10 | 914 | 309 | 75 | 98 | 902 |
+| 360d | 2025-10-03 | 18 | 2038 | 314 | 352 | 108 | 1966 |
+| last720d | 2024-10-08 | 29 | 3960 | 315 | 1431 | 114 | 3864 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for skypilot lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260927.yml` · 2026-09-27T05:14:25Z._
+_Snapshot: `data/card/260928.yml` · 2026-09-28T05:16:02Z._
