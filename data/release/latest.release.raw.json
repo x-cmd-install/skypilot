@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/skypilot-org/skypilot/releases/417621909",
-  "assets_url": "https://api.github.com/repos/skypilot-org/skypilot/releases/417621909/assets",
-  "upload_url": "https://uploads.github.com/repos/skypilot-org/skypilot/releases/417621909/assets{?name,label}",
-  "html_url": "https://github.com/skypilot-org/skypilot/releases/tag/v0.14.1",
-  "id": 417621909,
+  "url": "https://api.github.com/repos/skypilot-org/skypilot/releases/427035329",
+  "assets_url": "https://api.github.com/repos/skypilot-org/skypilot/releases/427035329/assets",
+  "upload_url": "https://uploads.github.com/repos/skypilot-org/skypilot/releases/427035329/assets{?name,label}",
+  "html_url": "https://github.com/skypilot-org/skypilot/releases/tag/v0.14.2",
+  "id": 427035329,
   "author": {
     "login": "Michaelvll",
     "id": 6753189,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOF41eh84Y5GeV",
-  "tag_name": "v0.14.1",
-  "target_commitish": "7e595970a806dcc9eefadf459f399edf1733e962",
-  "name": "Release v0.14.1",
+  "node_id": "RE_kwDOF41eh84ZdArB",
+  "tag_name": "v0.14.2",
+  "target_commitish": "39b151e11075f1d0029f8fc411a42334775fb3e7",
+  "name": "Release v0.14.2",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-19T18:41:25Z",
-  "updated_at": "2026-10-19T21:48:22Z",
-  "published_at": "2026-10-19T21:48:22Z",
+  "created_at": "2026-10-28T18:24:43Z",
+  "updated_at": "2026-10-28T18:26:56Z",
+  "published_at": "2026-10-28T18:26:56Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/skypilot-org/skypilot/tarball/v0.14.1",
-  "zipball_url": "https://api.github.com/repos/skypilot-org/skypilot/zipball/v0.14.1",
-  "body": "## SkyPilot v0.14.1\r\n\r\nGet it now with:\r\n\r\n```bash\r\nuv pip install \"skypilot>=0.14.1\"\r\n```\r\n\r\n---\r\n\r\n## What's Changed\r\n* Release 0.14.0 by @Michaelvll in https://github.com/skypilot-org/skypilot/pull/10962\r\n* Release 0.14.1 by @Michaelvll in https://github.com/skypilot-org/skypilot/pull/11123\r\n\r\n\r\n**Full Changelog**: https://github.com/skypilot-org/skypilot/compare/v0.14.0rc1...v0.14.1\r\n",
+  "tarball_url": "https://api.github.com/repos/skypilot-org/skypilot/tarball/v0.14.2",
+  "zipball_url": "https://api.github.com/repos/skypilot-org/skypilot/zipball/v0.14.2",
+  "body": "## SkyPilot v0.14.2\r\n\r\nGet it now with:\r\n\r\n```bash\r\nuv pip install \"skypilot>=0.14.2\"\r\n```\r\n\r\n---\r\n\r\n## What's Changed\r\n* Release 0.14.2 by @Michaelvll in https://github.com/skypilot-org/skypilot/pull/11220\r\n\r\n\r\n**Full Changelog**: https://github.com/skypilot-org/skypilot/compare/v0.14.1...v0.14.2\r\n",
   "mentions_count": 1
 }
