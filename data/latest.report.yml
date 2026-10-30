@@ -2,31 +2,31 @@ about:
   description: "The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster."
   license: Apache-2.0
   homepage: https://skypilot.ai/
-  head: c10d8f1
+  head: 0c9809c
   archived: false
   latestVersion: "v0.14.2"
   latestRelease: "v0.14.2"
   latestPrerelease: "v0.13.2rc1"
-  collectedAt: 2026-10-29T05:40:31Z
+  collectedAt: 2026-10-30T05:39:55Z
 timeline:
   created: 2021-08-11
-  lastCommit: 2026-10-28
+  lastCommit: 2026-10-29
   lastVersion: 2026-10-28
   lastRelease: 2026-10-28
   lastPrerelease: 2026-09-18
 popularity:
-  star: 10762
+  star: 10767
   watcher: 77
-  fork: 1312
+  fork: 1317
   release: 47
   contributor: 308
-  pullRequest: 7800
-  issue: 3338
+  pullRequest: 7810
+  issue: 3339
 language:
-  Python: 23125669
-  JavaScript: 1894944
+  Python: 23511230
+  JavaScript: 1899056
   Jinja: 258448
-  Shell: 240139
+  Shell: 254921
   HTML: 180122
   Go: 52871
   HCL: 14322
@@ -36,92 +36,92 @@ language:
   Dockerfile: 8039
   Makefile: 843
   Mako: 704
-totalBytes: 25809696
+totalBytes: 26214151
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 3
-    mergedPR: 147
-    openPR: 107
+    mergedPR: 143
+    openPR: 109
     closedIssue: 10
-    openIssue: 29
-    commit: 163
+    openIssue: 28
+    commit: 168
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 5
-    mergedPR: 310
-    openPR: 185
+    mergedPR: 304
+    openPR: 188
     closedIssue: 20
-    openIssue: 49
-    commit: 311
+    openIssue: 50
+    commit: 316
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 5
-    mergedPR: 444
-    openPR: 260
-    closedIssue: 35
-    openIssue: 78
-    commit: 458
+    mergedPR: 448
+    openPR: 262
+    closedIssue: 34
+    openIssue: 77
+    commit: 463
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 12
-    mergedPR: 948
-    openPR: 363
-    closedIssue: 81
-    openIssue: 103
-    commit: 945
-  last360d:
-    since: 2025-11-03
-    release: 20
-    mergedPR: 1987
+    mergedPR: 952
     openPR: 368
-    closedIssue: 322
-    openIssue: 114
-    commit: 1945
+    closedIssue: 81
+    openIssue: 104
+    commit: 950
+  last360d:
+    since: 2025-11-04
+    release: 20
+    mergedPR: 1982
+    openPR: 373
+    closedIssue: 320
+    openIssue: 115
+    commit: 1950
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 31
-    mergedPR: 4031
-    openPR: 369
-    closedIssue: 1357
-    openIssue: 120
-    commit: 3948
+    mergedPR: 4030
+    openPR: 374
+    closedIssue: 1353
+    openIssue: 121
+    commit: 3947
 total:
   release: 47
-  mergedPR: 6092
-  openPR: 370
+  mergedPR: 6097
+  openPR: 375
   closedIssue: 3196
-  openIssue: 142
-  commit: 6037
+  openIssue: 143
+  commit: 6042
 ---
 path: /home/runner/.x-repo/github.com/skypilot-org/skypilot
-collectedAt: 2026-10-29T05:40:54Z
+collectedAt: 2026-10-30T05:40:11Z
 loc:
   Python:
-    code: 445323
-    comments: 49355
-    blanks: 70121
-    files: 1276
+    code: 453464
+    comments: 49622
+    blanks: 71418
+    files: 1307
   Json:
     code: 48659
     comments: 0
     blanks: 0
     files: 47
   Jsx:
-    code: 34014
-    comments: 3252
-    blanks: 2740
+    code: 34112
+    comments: 3261
+    blanks: 2750
     files: 95
   ReStructuredText:
-    code: 26515
+    code: 26533
     comments: 0
-    blanks: 12266
+    blanks: 12275
     files: 143
   Yaml:
-    code: 18285
-    comments: 4238
+    code: 18287
+    comments: 4240
     blanks: 3112
-    files: 504
+    files: 505
   JavaScript:
     code: 12208
     comments: 1665
@@ -133,10 +133,10 @@ loc:
     blanks: 476
     files: 50
   Sh:
-    code: 4801
-    comments: 1327
-    blanks: 790
-    files: 61
+    code: 5044
+    comments: 1429
+    blanks: 806
+    files: 65
   Svg:
     code: 2163
     comments: 40
@@ -193,10 +193,10 @@ loc:
     blanks: 8
     files: 7
   Ini:
-    code: 49
+    code: 52
     comments: 85
     blanks: 30
-    files: 1
+    files: 2
   Makefile:
     code: 35
     comments: 11
@@ -224,19 +224,19 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13537
-    blanks: 5932
-    files: 154
+    comments: 13661
+    blanks: 5954
+    files: 155
   Text:
     code: 0
     comments: 163
     blanks: 11
     files: 14
 total:
-  code: 611251
-  comments: 75536
-  blanks: 98373
-  files: 2502
+  code: 619764
+  comments: 76040
+  blanks: 99728
+  files: 2540
 ---
 
 ---
