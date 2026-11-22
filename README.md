@@ -18,7 +18,7 @@ Total: **651,467** lines of code across **2183** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 490,456 | 51,611 | 77,539 | 1382 |
+| Python | 490,456 | 51,617 | 77,539 | 1382 |
 | Json | 49,081 | 0 | 0 | 48 |
 | Jsx | 35,364 | 3,358 | 2,849 | 99 |
 | ReStructuredText | 26,979 | 0 | 12,414 | 144 |
@@ -33,26 +33,26 @@ Total: **651,467** lines of code across **2183** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.14.3` (2026-11-16)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 10,867 · **Forks**: 1,360 · **Open issues**: 3,359 · **Contributors**: 313
+- **Stars**: 10,869 · **Forks**: 1,362 · **Open issues**: 3,359 · **Contributors**: 313
 
 ## Totals (cumulative)
 
-- **Releases**: 48 · **Merged PRs**: 6227 · **Open PRs**: 413 · **Closed issues**: 3205 · **Open issues**: 154 · **Commits**: 6174
+- **Releases**: 48 · **Merged PRs**: 6228 · **Open PRs**: 414 · **Closed issues**: 3206 · **Open issues**: 153 · **Commits**: 6175
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 2 | 139 | 104 | 2 | 31 | 163 |
-| last60d | 2026-09-22 | 5 | 316 | 190 | 12 | 54 | 342 |
-| 90d | 2026-08-23 | 6 | 481 | 270 | 22 | 73 | 502 |
-| last180d | 2026-05-25 | 11 | 960 | 393 | 76 | 115 | 974 |
-| 360d | 2025-11-26 | 20 | 1932 | 411 | 275 | 127 | 1910 |
-| last720d | 2024-12-01 | 32 | 4098 | 412 | 1324 | 132 | 4017 |
+| 30d | 2026-10-23 | 2 | 135 | 106 | 2 | 31 | 133 |
+| last60d | 2026-09-23 | 4 | 305 | 192 | 11 | 54 | 311 |
+| 90d | 2026-08-24 | 6 | 477 | 271 | 21 | 73 | 469 |
+| last180d | 2026-05-26 | 11 | 955 | 394 | 76 | 115 | 939 |
+| 360d | 2025-11-27 | 20 | 1924 | 412 | 272 | 126 | 1870 |
+| last720d | 2024-12-02 | 32 | 4098 | 413 | 1324 | 131 | 4018 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for skypilot lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T06:57:15Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T06:40:11Z._
